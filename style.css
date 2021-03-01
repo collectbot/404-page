@@ -6,10 +6,10 @@ html {
     height: 70vh;
     width: 70vw;
     background-image: url(http://cdn.lowgif.com/full/a44448468d739d25-super-famicom-gif-find-share-on-giphy.gif);
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    text-shadow: 0 0 5px #1c066d;
-    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-shadow: 0 0 5px #ffffff;
+    font-size: 15px;
 }
 
 body {
