@@ -8,7 +8,7 @@ html {
     background-image: url(http://cdn.lowgif.com/full/a44448468d739d25-super-famicom-gif-find-share-on-giphy.gif);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    text-shadow: 0 0 3px #333333;
+    text-shadow: 0 0 3px #a01818;
     
 }
 
@@ -31,7 +31,7 @@ img {
 }
 
 header {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 #pata {
