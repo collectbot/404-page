@@ -1,10 +1,10 @@
 * {
-    margin: 0;
+    margin: 30px;
 }
 
 html {
-    height: 70vh;
-    width: 70vw;
+    height: 100vh;
+    width: 100vw;
     background-image: url(http://cdn.lowgif.com/full/a44448468d739d25-super-famicom-gif-find-share-on-giphy.gif);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
