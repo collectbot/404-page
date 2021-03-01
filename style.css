@@ -5,19 +5,19 @@
 html {
     height: 100vh;
     width: 100vw;
-    background-image: url(http://cdn.lowgif.com/full/a44448468d739d25-super-famicom-gif-find-share-on-giphy.gif);
+    background-image: url(https://cdn.wallpapersafari.com/58/60/3QEmqC.gif);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
-    text-shadow: 0 0 5px #ffffff;
-    font-size: 15px;
+    text-shadow: 0 0 5px #6e0000;
+    font-size: 12px;
 }
 
 body {
     height: 100%;
-    width: 60%;
+    width: 50%;
     background-color: black;
     margin: auto;
-    color: white;
+    color: rgb(224, 176, 15);
     text-align: center;
     display:flex;
     flex-direction: column;
@@ -26,7 +26,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
 }
 
@@ -34,10 +34,26 @@ header {
     font-size: 30px;
 }
 
-#pata {
+#biohazard {
     transition: 3s ease-in-out;
 }
 
-#pata:hover {
+#biohazard:hover {
     transform: rotate(360deg);
+}
+
+h1 {
+    font-size: 32px;
+    padding: 0;
+    text-shadow: 2px 2px #000000;
+    text-transform: uppercase;
+    transition-duration: 1s;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h1:hover {
+  letter-spacing: 4px;
 }
