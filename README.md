@@ -33,4 +33,4 @@ You have to create a new repository called *404-page* containing the **HTML** an
 As you all know, we see errors all the time, so we might as well make them look pretty. Plus, a custom *error 404* page does give an aura of professionalism to a website.
 ![Congratulations](https://camo.githubusercontent.com/3c705150a835b155f55d95bac13e73f8bcb1eeb0efcfddf5efd88c2a4148c3f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7854694e304c374557357472664f76456b302f67697068792e676966)
 
-## Link to 404 page
+## Link to [404 page](https://marcoarata.github.io/404-page/)
